@@ -1,4 +1,4 @@
-# Automated-Security-Alert-Enrichment-Script
+# Automated Security Alert Enrichment Script
 Linkedin: https://www.linkedin.com/in/mr-lopeza/
 
 1. Purpose
